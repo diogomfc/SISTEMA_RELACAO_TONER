@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Excluir" value="name:ID;datatype:int,name:arquivo;datatype:blob,name:fabricante;datatype:blob,name:modelo;datatype:blob,name:impressoras;datatype:blob,name:especificacao;datatype:blob,name:arquivo_procedimento;datatype:blob,name:compativel;datatype:blob,name:obs;datatype:blob,name:qtd_po;datatype:blob,name:preco_chip;datatype:blob,name:preco_cilindro;datatype:blob,name:preco_refil;datatype:blob,name:preco_recarga;datatype:blob,name:preco_remanufaturado;datatype:blob" />
+</info>
